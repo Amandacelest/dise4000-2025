@@ -4,7 +4,7 @@
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/portafolio-web/blob/main/Solemne%2003%20JavieraEspinoza.pdf
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/portafolio-web
 * CAMPOS RANGEL ANNTONELLA MERCEDES https://github.com/Annto24/portafolio-web/blob/main/Solemne3_AnntonellaCampos.pdf
-* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/Portafolio_web
+* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/Portafolio_web./tree/main/examen
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/portafolio-web
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/portafolio-web/blob/main/Documentacion-RuthPerez.pdf
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES https://github.com/CaroSmithOFC/Solemne3_CarolinaRamos/blob/main/Carolina%20Ramos%20Portafolio_Solemne%203.pdf
